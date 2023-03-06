@@ -1,2 +1,2 @@
 # Simple-Bank-Application
-This project is a small and simple banking application that allows users to create "bank accounts" and perform normal banking operations (e.g. deposits, withdraws, transfers, etc.). All information is stored to a file which is used for login functionality.
+This project is a small and simple banking application that allows users to create "bank accounts" and perform normal banking operations (e.g. deposits, withdraws, transfers, etc.). All information is stored to Users.txt to have some semblance of login functionality. Also included is a "Tests" class that prints expected vs. actual values output by Manager.java to "test" that inputs are followed by the correct output. 
