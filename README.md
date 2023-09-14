@@ -1,4 +1,4 @@
-# Simple-Bank-Application
+# Simple Banking Application
 ## Description
 This simple bank application is a Java-based application that simulates the basic functionalities of a banking system. It incorporates user authentication, account management, and file operations to provide a seamless banking experience. Users can perform various tasks such as checking their balance, depositing funds, and withdrawing money.
 
